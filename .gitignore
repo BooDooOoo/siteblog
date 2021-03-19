@@ -115,3 +115,4 @@ dmypy.json
 
 static/
 siteblog/static/
+media/
